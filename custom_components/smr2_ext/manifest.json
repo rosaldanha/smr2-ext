@@ -1,0 +1,11 @@
+{
+  "codeowners": ["@rosaldanha"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/rosaldanha/smr2_ext",
+  "domain": "smr2_ext",
+  "iot_class": "local_polling",
+  "name": "SMR2 extended",
+  "requirements": [],
+  "version": "0.0.1"
+}

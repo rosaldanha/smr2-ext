@@ -1,0 +1,5 @@
+{
+  "name": "SMR2 extended",
+  "render_readme": true,
+  "iot_class": "local_polling"
+}
